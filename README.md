@@ -24,7 +24,6 @@ If you want to report bugs or request new features, then please report them on t
 
 You can also check the FAQ to see if any of your questions have been answered there.
 
-{% page-ref page="f.a.q..md" %}
 
 ## Sponsor the Project
 
